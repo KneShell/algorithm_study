@@ -10,9 +10,9 @@ typedef struct person {
 	char* email;
 	char* group;
 }Person;
-// ±¸Á¶Ã¼ struct personÀ» Á¤ÀÇÇÏ¸é¼­ µ¿½Ã¿¡ ±×°ÍÀ» PersonÀ¸·Î renamingÇß´Ù. ÀÌ·±½ÄÀ¸·Î »ç¿ëÇÒ °æ¿ì struct tagÀÎ personÀ» »ý·«ÇØµµ µÈ´Ù.
+// ï¿½ï¿½ï¿½ï¿½Ã¼ struct personï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸é¼­ ï¿½ï¿½ï¿½Ã¿ï¿½ ï¿½×°ï¿½ï¿½ï¿½ Personï¿½ï¿½ï¿½ï¿½ renamingï¿½ß´ï¿½. ï¿½Ì·ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿?ï¿½ï¿½ï¿?struct tagï¿½ï¿½ personï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Øµï¿½ ï¿½È´ï¿½.
 
-Person directory[CAPACITY]; // Person Å¸ÀÔÀÇ ¹è¿­ directory¸¦ ¼±¾ðÇÑ´Ù.
+Person directory[CAPACITY]; // Person Å¸ï¿½ï¿½ï¿½ï¿½ ï¿½è¿­ directoryï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ñ´ï¿½.
 
 int n = 0;
 
