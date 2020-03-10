@@ -23,5 +23,8 @@
     <ClCompile Include="queueADT.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="QueueADT_LinkedList.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
